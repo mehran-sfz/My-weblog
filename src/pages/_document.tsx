@@ -4,7 +4,7 @@ import { CONFIG } from "site.config"
 class MyDocument extends Document {
   render() {
     return (
-      <Html lang={CONFIG.lang}>
+      <Html lang={CONFIG.lang} dir="auto">
         <Head>
           <link rel="icon" href="/favicon.ico" />
           <link
