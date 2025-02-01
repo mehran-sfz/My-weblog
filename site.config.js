@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Mehran Blog`,
-      href: "https://github.com/mehran-sfz",
+      href: "https://mehransfz.vercel.app",
     },
   ],
   // blog setting (required)
